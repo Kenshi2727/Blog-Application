@@ -457,6 +457,7 @@ main .description .describe{
     align-items: center;
     gap:2rem;
     background-color:#101517;
+    border:#fff solid 2px;
     padding: 4rem;
     border-radius: 10px;
     margin: 2rem;
