@@ -1,6 +1,6 @@
 # Blogging-Website
 ## This is just a simple website!
-## <a href="https://blog-application-1-7re0.onrender.com">Visit site</a>(Blame <a href="https://render.com/">render</a> if you face delay in loading site🌚)
+## <a href="https://blog-application-production-2afc.up.railway.app/">Visit site</a> 
 ### This is a blogging website with no database. In the later versions we will integrate database technology as well.
 <hr>
 ## Frameworks used:
