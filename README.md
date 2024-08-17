@@ -2,7 +2,7 @@
 ## This is just a simple website!
 ## <a href="https://blog-application-production-2afc.up.railway.app/">Visit site</a> 
 ## <a href="https://blog-application-1-7re0.onrender.com">Visit this link if above link does not work!(may get a delay of upto 50 second!)</a>
-### This is a blogging website with no database. In the later versions we will integrate database technology as well.
+# THIS WEBSITE WILL NOT BE DEVELOPED FURTHER!
 <hr>
 ## Frameworks used:
 <ul>
