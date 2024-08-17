@@ -1,24 +1,9 @@
-# Blogging-Website
-## This is just a simple website!
-## <a href="https://blog-application-production-2afc.up.railway.app/">Visit site</a> 
-## <a href="https://blog-application-1-7re0.onrender.com">Visit this link if above link does not work!(may get a delay of upto 50 second!)</a>
+## This is just a simple website for practicing frontend development!(only intended to view in medium to large screen)
 # THIS WEBSITE WILL NOT BE DEVELOPED FURTHER!
-<hr>
-## Frameworks used:
-<ul>
-  <li>Express.js</li>
-  <li>Bootstrap(only used to design footer and carousels)</li>
-</ul>
 
-## Majorly the frontend is wriiten is pure vanilla css including nav bars and dropdown.
-## Languages used:
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>EJS</li>
-  <li>JS</li>
-</ul>
+### <a href="https://blog-application-production-2afc.up.railway.app/">Visit site</a> 
+### <a href="https://blog-application-1-7re0.onrender.com">Visit this link if above link does not work!(may get a delay of upto 50 second!)</a>
 
-### Note-THIS WEBSITE IS STILL UNDER TESTING AND IS NOT MOBILE RESPONSIVE HENCE VIEW IT IN DESKTOP OR MONITOR WITH FULL SCREEN.
-###      SOME FUNCTIONALITIES MIGHT NOT RUN AS IT IS STILL NOT COMPLETE. ANY RECOMMENDATIONS IS HIGHLY APPRECIATED!
+
+
 
